@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except these:
+!.gitignore
+!README.md
+!*.py
+!*.R
+!*.cfg
+
+# Even if they are in subdirectories
+!*/
