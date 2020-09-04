@@ -1,2 +1,2 @@
-# nanjing_house_price
-Crawl house price data from www.soufang.com and analyse it with DTW.
+# house-price-nanjing
+Crawl house price data from www.soufang.com and analyse its spatio-temporal evolution.
